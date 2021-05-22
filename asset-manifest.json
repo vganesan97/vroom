@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/vroom/static/css/main.5ca3bf08.chunk.css",
+    "main.js": "/vroom/static/js/main.d27d093d.chunk.js",
+    "main.js.map": "/vroom/static/js/main.d27d093d.chunk.js.map",
+    "runtime-main.js": "/vroom/static/js/runtime-main.a319dbda.js",
+    "runtime-main.js.map": "/vroom/static/js/runtime-main.a319dbda.js.map",
+    "static/css/2.af3c1da9.chunk.css": "/vroom/static/css/2.af3c1da9.chunk.css",
+    "static/js/2.e000a12a.chunk.js": "/vroom/static/js/2.e000a12a.chunk.js",
+    "static/js/2.e000a12a.chunk.js.map": "/vroom/static/js/2.e000a12a.chunk.js.map",
+    "index.html": "/vroom/index.html",
+    "precache-manifest.3cf39c720cea545af1ae0bde14e4c891.js": "/vroom/precache-manifest.3cf39c720cea545af1ae0bde14e4c891.js",
+    "service-worker.js": "/vroom/service-worker.js",
+    "static/css/2.af3c1da9.chunk.css.map": "/vroom/static/css/2.af3c1da9.chunk.css.map",
+    "static/css/main.5ca3bf08.chunk.css.map": "/vroom/static/css/main.5ca3bf08.chunk.css.map",
+    "static/js/2.e000a12a.chunk.js.LICENSE.txt": "/vroom/static/js/2.e000a12a.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.a319dbda.js",
+    "static/css/2.af3c1da9.chunk.css",
+    "static/js/2.e000a12a.chunk.js",
+    "static/css/main.5ca3bf08.chunk.css",
+    "static/js/main.d27d093d.chunk.js"
+  ]
+}
