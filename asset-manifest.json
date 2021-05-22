@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/vroom/static/css/main.5ca3bf08.chunk.css",
-    "main.js": "/vroom/static/js/main.75dfd241.chunk.js",
-    "main.js.map": "/vroom/static/js/main.75dfd241.chunk.js.map",
+    "main.js": "/vroom/static/js/main.f00aac43.chunk.js",
+    "main.js.map": "/vroom/static/js/main.f00aac43.chunk.js.map",
     "runtime-main.js": "/vroom/static/js/runtime-main.a319dbda.js",
     "runtime-main.js.map": "/vroom/static/js/runtime-main.a319dbda.js.map",
     "static/css/2.af3c1da9.chunk.css": "/vroom/static/css/2.af3c1da9.chunk.css",
     "static/js/2.e000a12a.chunk.js": "/vroom/static/js/2.e000a12a.chunk.js",
     "static/js/2.e000a12a.chunk.js.map": "/vroom/static/js/2.e000a12a.chunk.js.map",
     "index.html": "/vroom/index.html",
-    "precache-manifest.8ba8b1d0b3bbe04c257bdd35c975eea8.js": "/vroom/precache-manifest.8ba8b1d0b3bbe04c257bdd35c975eea8.js",
+    "precache-manifest.0e7b2dfd3d1ef18ed021fbe1a833fdaa.js": "/vroom/precache-manifest.0e7b2dfd3d1ef18ed021fbe1a833fdaa.js",
     "service-worker.js": "/vroom/service-worker.js",
     "static/css/2.af3c1da9.chunk.css.map": "/vroom/static/css/2.af3c1da9.chunk.css.map",
     "static/css/main.5ca3bf08.chunk.css.map": "/vroom/static/css/main.5ca3bf08.chunk.css.map",
@@ -20,6 +20,6 @@
     "static/css/2.af3c1da9.chunk.css",
     "static/js/2.e000a12a.chunk.js",
     "static/css/main.5ca3bf08.chunk.css",
-    "static/js/main.75dfd241.chunk.js"
+    "static/js/main.f00aac43.chunk.js"
   ]
 }
